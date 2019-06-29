@@ -18,10 +18,15 @@ YANG Data Modeling & Tools
 APIC-EM
 
 DevOps 101
-  Introduction to DevOps 
+
+  Introduction to DevOps
+  
   Veriosn Control Git
+  
   Introduction to Agile & Lean
+  
   Configuration Management Ansible
+  
   Configuration Management Puppet
   
 Automated Testing VIRL ,Devnet sandbox & Network/unit/integration test
