@@ -19,15 +19,15 @@ APIC-EM
 
 DevOps 101
 
-  Introduction to DevOps
+     Introduction to DevOps
   
-  Veriosn Control Git
+     Veriosn Control Git
   
-  Introduction to Agile & Lean
+     Introduction to Agile & Lean
   
-  Configuration Management Ansible
+     Configuration Management Ansible
   
-  Configuration Management Puppet
+    Configuration Management Puppet
   
 Automated Testing VIRL ,Devnet sandbox & Network/unit/integration test
 
