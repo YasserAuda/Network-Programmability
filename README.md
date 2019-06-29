@@ -1,31 +1,23 @@
 # Network-Programmability
-Network Programmability for Cisco R&amp;S and Networking Professional
-Web server & application and HTTP
+Network Programmability for Cisco R&amp;S and Networking Professional , Topics will be covered:
 
-JSON
-
-XML
-
-Introduction to Network Programmability & Open APIs
-
-Postman
-
+HTTP and Web server/application
+Data Encoding (JSON , XML & YAML)
+Introduction to Network Programmability 
+Introduction to Rest API , NETCONF , RESTCONF APIs
+Postman  API Client
 Cisco ASA & IOS XE APIs
-
 YANG Data Modeling & Tools
-
 APIC-EM
+DevOps 101
+  Introduction to DevOps 
+  Veriosn Control Git
+  Introduction to Agile & Lean
+  Configuration Management Ansible
+  Configuration Management Puppet
+Automated Testing VIRL ,Devnet sandbox & Network/unit/integration test
 
-Introduction to DevOps
 
-Veriosn Control Git
 
-Introduction to Agile & Lean
 
-Automated Testing VIRL & Devnet sandbox
 
-Automated Testing network/unit/integration test
-
-Configuration Management Ansible
-
-Configuration Management Puppet
